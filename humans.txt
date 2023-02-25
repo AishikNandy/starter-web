@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     Ash on fire or wot xxxx
+=======
+    Ash on fire or wot yy
+>>>>>>> realwork
 
 # THANKS
 
