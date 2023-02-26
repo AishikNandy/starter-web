@@ -12,7 +12,7 @@
 # THANKS
 
     Thanks to all my students
-    testing merge
+    we are testing git merge
 
 # TECHNOLOGY COLOPHON
 
