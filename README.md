@@ -12,3 +12,5 @@ Adding a line for git rebasing, then more changes from myfeature branch too.
 Git.Training
 
 bla bla bla
+
+tantan
