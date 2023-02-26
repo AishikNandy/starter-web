@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos.
 
-Adding a line for git rebasing .
+Adding a line for git rebasing, then more changes from myfeature branch too.
 
 
 Git.Training
